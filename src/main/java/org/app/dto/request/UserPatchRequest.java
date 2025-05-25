@@ -23,4 +23,3 @@ public class UserPatchRequest {
   @Valid
   private University university;
 }
-
